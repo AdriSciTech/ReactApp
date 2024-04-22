@@ -21,3 +21,23 @@ I meticulously ensured correct imports between index.js and app.js. I referred t
  the QR code when running 'npx expo start tunnel'. To resolve this issue, I uninstalled those dependencies.
 
  
+ firebase storage setup:
+ https://www.youtube.com/watch?v=-IFRVMEhZDc
+ https://firebase.google.com/docs/storage/web/start#web-modular-api
+ https://firebase.google.com/docs/storage/web/create-reference#web-modular-api
+
+
+
+ update 4/22/2024
+ Im stuck and I do not understand how I am supposed to get the image from firebase storage 
+ So I just found two videotutorials by freecodecamp and will give it a try and hopefully ill be able to better grasp react and how to implement firebase with it
+ I have to have it finished in 3 days 
+
+ https://www.youtube.com/watch?v=obH0Po_RdWk
+ https://www.youtube.com/watch?v=RMScMwY2B6Q
+
+
+ https://firebase.google.com/docs/storage/web/start
+
+getting the image from firebase:
+ https://www.youtube.com/watch?v=IZNDDIQtt-s
