@@ -41,3 +41,12 @@ I meticulously ensured correct imports between index.js and app.js. I referred t
 
 getting the image from firebase:
  https://www.youtube.com/watch?v=IZNDDIQtt-s
+
+ for auth: 
+ https://reactnavigation.org/docs/getting-started/
+
+ 4/24/2024
+ added a login and signup page 
+ ran into an error and realised it was beacuse it used import { db } from './firebase.js';
+ I should have used: import db from './firebase.js'; because I export as default
+ 
